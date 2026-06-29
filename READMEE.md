@@ -1,1 +1,0 @@
-# ManshaktiHackthon Git Initialisation
